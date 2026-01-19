@@ -4,7 +4,7 @@
 
 Hi, I'm **Serdar Sökmen**. I am an Electrical-Electronics Engineering student and UAV Pilot dedicated to designing the next generation of autonomous flight systems. My work bridges the gap between theoretical control systems and real-world embedded applications.
 
-[GitHub Profile](https://github.com/serdarskmnn) • [LinkedIn](https://www.linkedin.com/in/mserdarsokmen/) • [Contact Me](mailto:mserdarsokmen@gmail.com)
+[GitHub Profile](https://github.com/asikarastallion) • [LinkedIn](https://www.linkedin.com/in/mserdarsokmen/) • [Contact Me](mailto:mserdarsokmen@gmail.com)
 
 ---
 
