@@ -89,6 +89,25 @@ Ensuring flight safety during power-source failures in hybrid UAV systems.
 > ![HAK System Graph](assets/hak.jpeg)
 ---
 
+### NavGuard – Navigation Integrity & Safety Layer for UAVs
+
+NavGuard is an ongoing navigation integrity monitoring and decision-support system
+designed to improve UAV operational safety under unreliable GNSS conditions.
+
+Rather than assuming GPS reliability, the system evaluates navigation consistency
+from telemetry data and state estimation, producing a real-time trust score that
+can gate mission-critical actions.
+
+NavGuard is being actively developed and tested in simulation (ArduPilot SITL),
+with scenario-based simulations and telemetry analysis continuing to refine
+detection logic, decision thresholds, and system robustness.
+
+Status: Active development — simulation and validation in progress.
+
+![UI](assets/navguard.png)
+
+---
+
 ## 🛠 UAV Platforms & Prototypes
 
 A collection of UAV platforms built and flown as part of my hands-on development experience.
