@@ -63,30 +63,6 @@ Autonomous target tracking for UAV operations using onboard vision.
 **Tech Stack**
 - MATLAB, Simulink, Computer Vision Toolbox
 
-<!-- IMAGE: Visual servoing simulation -->
-> ![Visual Servoing Simulation](assets/visual.png)
-
----
-
-### ⚡ Hybrid Power Management System (HAK)
-
-**Context**  
-Ensuring flight safety during power-source failures in hybrid UAV systems.
-
-**Approach**
-- Designed a **hybrid power switching system** (Hydrogen Fuel Cell → Li-Po)
-- Modeled electrical behavior using **Simscape Electrical**
-- Implemented logic using **Stateflow**
-
-**Result**
-- Verified seamless source switching under **5 ms**
-- Zero voltage drop observed during transition
-
-**Tech Stack**
-- Simscape Electrical, Stateflow
-
-<!-- IMAGE: HAK system diagram or simulation graph -->
-> ![HAK System Graph](assets/hak.jpeg)
 ---
 
 ### NavGuard – Navigation Integrity & Safety Layer for UAVs
