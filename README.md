@@ -1,8 +1,5 @@
 # Avionics & Autonomous Systems Engineer
 
-*“Never interrupt your enemy when he is making a mistake.”*  
-— Napoleon Bonaparte
-
 Hi, I’m **Serdar Sökmen**, an Electrical & Electronics Engineering student and licensed UAV pilot focused on **VTOL UAVs, flight control systems, and autonomous avionics**.  
 My work bridges **control theory, simulation-based validation, and real-world embedded flight systems**.
 
