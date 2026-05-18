@@ -113,6 +113,11 @@ A collection of **flight logs, PID tuning sessions, VTOL transition experiments,
 
 [View Flight Test Archive (Google Drive)](https://drive.google.com/drive/folders/1MmwJMkeCWXLCqxGQz651SOQ_ts-VBhMv?usp=sharing)
 
+<!-- IMAGE: p-->
+![PİTCH](assets/pitch.png)
+
+<!-- IMAGE: r-->
+![ROLL](assets/roll.png)
 ---
 
 ## Software & Automation Projects (Supporting Work)
