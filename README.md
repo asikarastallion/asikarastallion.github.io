@@ -10,7 +10,7 @@ My work bridges **control theory, simulation-based validation, and real-world em
 
 ---
 
-## 🏆 Featured Project — METU VTOL 2025
+## Featured Project — METU VTOL 2025
 
 **Role:** Team Leader • Avionics Lead • Flight Control Algorithm Designer
 
@@ -42,11 +42,11 @@ Designing a **stable and safe transition** between vertical and forward flight u
 
 ---
 
-## 🧠 Control & Simulation Projects
+## Control & Simulation Projects
 
 This section represents my **simulation-driven development workflow**, where control strategies are validated before real-world deployment.
 
-### 🚁 6-DOF Flight Control & Visual Servoing
+### 6-DOF Flight Control & Visual Servoing
 
 **Context**  
 Autonomous target tracking for UAV operations using onboard vision.
@@ -84,30 +84,30 @@ Status: Active development — simulation and validation in progress.
 
 ---
 
-## 🛠 UAV Platforms & Prototypes
+## UAV Platforms & Prototypes
 
 A collection of UAV platforms built and flown as part of my hands-on development experience.
 
-### ✈️ Fixed-Wing UAV
+### Fixed-Wing UAV
 Long-endurance platform used for manual flight testing and aerodynamic evaluation.
 
 <!-- IMAGE: Fixed-wing UAV -->
 ![Fixed Wing](assets/mor_menekse.png)
 
-### 🚁 Quadcopter UAV
+### Quadcopter UAV
 Testbed for **PID tuning**, sensor integration, and flight controller configuration.
 
 <!-- IMAGE: Quadcopter UAV -->
 ![Quadcopter](assets/dron_2.png)
 
-### 🚀 VTOL UAV (Tilt-Rotor Prototype)
+### VTOL UAV (Tilt-Rotor Prototype)
 Experimental platform for **transition dynamics and control architecture testing**.
 
 <!-- IMAGE: VTOL prototype -->
 ![VTOL](assets/d2.png)
 ---
 
-## 📺 Flight Test Archive
+## Flight Test Archive
 
 A collection of **flight logs, PID tuning sessions, VTOL transition experiments, and raw telemetry data** used for control validation and performance analysis.
 
@@ -115,7 +115,7 @@ A collection of **flight logs, PID tuning sessions, VTOL transition experiments,
 
 ---
 
-## 🤖 Software & Automation Projects (Supporting Work)
+## Software & Automation Projects (Supporting Work)
 
 ### Autonomous Content Processing & Decision System
 
@@ -136,7 +136,7 @@ Demonstrates **system-level decision logic, automation pipelines, and robust sof
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 **B.Sc. Electrical & Electronics Engineering** — Bursa Technical University  
 *(3rd Year Undergraduate)*
